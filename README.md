@@ -4,11 +4,12 @@ Hey! I'm Zuhaib Hussain Butt or as friends call me Zuhaib and welcome to my GitH
  
 I'm a <strong>storyteller</strong> at heart and seasoned <strong>research & analytics</strong> professional who loves solving problems and telling stories with data. I have aided organizations adopt data-driven decision-making solutions to improve businesses. One of my major quests has been to leverage data to find <strong>actionable insights</strong> and thus connect dollars to the business outcomes. I call myself a Data Evangelist as I believe in empowering every individual with Data-Literacy, thus I have played the role of a mentor as well.I have a great passion for <strong>Machine learning</strong> along with <strong>Data Science</strong>.
 </p>
-<br>
+
+
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+
 
 🙂 A little about my personality: I am the type of person who will ask “What can I do to help and improve?” when presented with a problem and will pitch in whenever needed to find out-of-the-box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
 
