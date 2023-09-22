@@ -1,9 +1,8 @@
 Hey! I'm Zuhaib Hussain Butt or as friends call me Zuhaib and welcome to my GitHub profile! 👋🏻
 
 <p align="center">
-  <code>
+ 
 I'm a <strong>storyteller</strong> at heart and seasoned <strong>research & analytics</strong> professional who loves solving problems and telling stories with data. I have aided organizations adopt data-driven decision-making solutions to improve businesses. One of my major quests has been to leverage data to find <strong>actionable insights</strong> and thus connect dollars to the business outcomes. I call myself a Data Evangelist as I believe in empowering every individual with Data-Literacy, thus I have played the role of a mentor as well.I have a great passion for <strong>Machine learning</strong> along with <strong>Data Science</strong>.
-  </code>
 </p>
 
 ## Contribution Snake 
@@ -47,14 +46,14 @@ Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value an
 </p>
 
 <h3>
-  <code>
+  <p align="center">
     Tools Used
-  </code>
+</p>
 </h3>
 
 <br>
 
-<p>
+<p align="center">
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
