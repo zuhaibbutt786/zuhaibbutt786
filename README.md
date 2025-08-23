@@ -5,7 +5,7 @@ Data Scientist |Software Engineer |Educationist
 -----------------------------------------------
 
 *   🌍  I'm based in pakistan
-*   🖥️  See my portfolio at [zuhaibbutt](https://zuhaibbutt.vercel.app/))
+*   🖥️  See my portfolio at [zuhaibbutt](https://zuhaibbutt.vercel.app/)
 *   ✉️  You can contact me at [zuhaibbutt3@gmail.com](mailto:zuhaibbutt3@gmail.com)
 *   🧠  I'm learning LLMs,Speech regonition,Flask
 *   🤝  I'm open to collaborating on Chatbots ,Web development in flask , computer vision projects ,NLP projects
